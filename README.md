@@ -1,6 +1,6 @@
 # Youssef Louzani Portfolio
 
-Modern React/TypeScript portfolio and improved CV built from the provided resume.
+Latest version of my portfolio, built with React, TypeScript, Vite, and an optional MERN backend scaffold.
 
 ## Files
 
