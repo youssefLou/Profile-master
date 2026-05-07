@@ -321,7 +321,7 @@ export default function App() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <Github size={18} /> Add your GitHub
+                <Github size={18} /> My GitHub
               </a>
             </div>
           </motion.div>
